@@ -9,6 +9,6 @@
 ---
 ## License
 ###### [![CreativeCommonsLicense](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-#### DRGYRTM by TheSebInside is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International  License.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+#### DRGYRTM/DragYourTeam by TheSebInside is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International  License.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ---
 ###### 🖋 Last change on September 16, 2018 | Version 1.0.0
