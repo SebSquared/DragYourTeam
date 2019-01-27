@@ -4,7 +4,7 @@
 ### DragyourTeam is a Web-Application, which makes it easier to group your team / staff to know where they are or what they are doing. Actually developed to replace the old-fashioned board of the emergency services to manage the crew on the vehicles and bring them to digital age.
 ---
 ## Additional Information
-### Author: TheSebInside [![YouTube](https://png.icons8.com/color/20/000000/youtube-play.png)](https://www.youtube.com/channel/UCmrldbxpX0XIAtBTgyfKBRw) [![Twitch](https://png.icons8.com/color/20/000000/twitch.png)](https://twitch.tv/thesebinside) [![CodePen](https://png.icons8.com/color/20/000000/codepen.png)](https://codepen.io/TheSebInside/) [![GitHub](https://png.icons8.com/color/20/000000/github.png)](https://github.com/thesebinside)
+### Author: TheSebInside 
 ### Language: HTML[![HTML](https://png.icons8.com/color/20/000000/html-5.png)](https://github.com/topics/html), CSS[![CSS](https://png.icons8.com/color/20/000000/css3.png)](https://github.com/topics/css), JavaScript[![JavaScript](https://png.icons8.com/ios/20/F0DB4F/javascript-filled.png)](https://github.com/topics/javascript)
 ---
 ## License
