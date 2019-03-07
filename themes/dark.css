@@ -1,0 +1,59 @@
+body
+{
+  background-color: #21252B;
+  height: 100%;
+  margin: 0;
+}
+.Container
+{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.Team
+{
+  position: absolute;
+  width: 40%;
+  height: 100%;
+  background-color: lightblue;
+}
+.Position1
+{
+  position: absolute;
+  left: 40%;
+  height: 50%;
+  width: 30%;
+  background-color: red;
+}
+.Position2
+{
+  position: absolute;
+  left: 70%;
+  height: 50%;
+  width: 30%;
+  background-color: lightgreen;
+}
+.Position3
+{
+  position: absolute;
+  left: 40%;
+  bottom: 0;
+  height: 50%;
+  width: 30%;
+  background-color: yellow;
+}
+.Position4
+{
+  position: absolute;
+  left: 70%;
+  bottom: 0;
+  height: 50%;
+  width: 30%;
+  background-color: brown;
+}
+Watermark
+{
+  font-family: "Roboto";
+  font-size: 5vw;
+  color: black;
+}
